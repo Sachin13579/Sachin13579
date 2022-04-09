@@ -11,8 +11,8 @@
 <a href="https://www.linkedin.com/in/sachin-singhis/">
   <img align="left" alt="Sachin's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/sunil18695924">
-  <img align="left" alt="Sunil | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/home">
+  <img align="left" alt="Sachin| Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <br/>
