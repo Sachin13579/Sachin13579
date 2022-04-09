@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Sunil Kumar Biswal</a>!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Sachin Kumar Singh</a>!
    
 </h2>
 
@@ -8,11 +8,11 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/sunil-kumar-biswal/">
-  <img align="left" alt="sunil's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sachin-singhis/">
+  <img align="left" alt="Sachin's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/sunil18695924">
-  <img align="left" alt="sunil | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sunil | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on Linkedin
 - 🤔 I’m looking for help with developing AI skills..
 - 💬 Ask me about any MERN related stuff
-- 📫 How to reach me **sunilbiswal01092001@gmail.com**
+- 📫 How to reach me **sachin.singh.glbimr19@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
  <br>
@@ -72,19 +72,19 @@
  <h2>ℹ️ &nbsp;Github Info</h2>
  <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skbiswal01&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="sunil biswal" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skbiswal01&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Sachin biswal" /></p>
 </details>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skbiswal01&theme=github_dark" alt="sunil" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skbiswal01&theme=github_dark" alt="Sachin" align = "center"/></p>
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/NitishGoswami"><img src="https://github-profile-trophy.vercel.app/?username=skbiswal01&margin-w=5&theme=radical" alt="sunil" /></a> </p>
+<p align="center"> <a href="https://github.com/NitishGoswami"><img src="https://github-profile-trophy.vercel.app/?username=skbiswal01&margin-w=5&theme=radical" alt="Sachin" /></a> </p>
  </details>
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Sunil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skbiswal01&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Sachin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skbiswal01&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 
 
