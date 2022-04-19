@@ -80,7 +80,7 @@
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/NitishGoswami"><img src="https://github-profile-trophy.vercel.app/?username=Sachin13579&margin-w=5&theme=radical" alt="Sachin" /></a> </p>
+<p align="center"> <a href="https://github.com/Sachin13579"><img src="https://github-profile-trophy.vercel.app/?username=Sachin13579&margin-w=5&theme=radical" alt="Sachin" /></a> </p>
  </details>
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
@@ -94,7 +94,7 @@
     if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 <p align="center">
-<a href="" target="https://www.buymeacoffee.com/sachinsingA"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/sachinsingA" target=""><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
 <p align="center">
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
