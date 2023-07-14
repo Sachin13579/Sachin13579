@@ -12,7 +12,7 @@
   <img align="left" alt="Sachin's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/home">
-  <img align="left" alt="Sachin| Twitter" width="40px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://icons8.com/icon/13963/twitter)" />
+  <img align="left" alt="Sachin| Twitter" width="40px" src="https://icons8.com/icon/13963/twitter" />
 </a>
 
 <br/>
