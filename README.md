@@ -1,4 +1,4 @@
-![image](https://github.com/Sachin13579/Sachin13579/assets/97518055/0eb52fc6-21f3-4e6f-8dc0-145d7df4678f)<h2 align="center">
+<h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Sachin Kumar Singh</a>!
    
 </h2>
@@ -9,7 +9,7 @@
 
 
 <a href="https://www.linkedin.com/in/sachin-singhis/">
-  <img align="left" alt="Sachin's LinkedIn" width="40px" src="https://img.icons8.com/?size=512&id=13963&format=png" />
+  <img align="left" alt="Sachin's LinkedIn" width="40px" src="https://img.icons8.com/?size=512&id=114445&format=png" />
 </a>
 <a href="https://twitter.com/home">
   <img align="left" alt="Sachin| Twitter" width="40px" src="https://img.icons8.com/?size=512&id=13963&format=png" />
